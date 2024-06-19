@@ -1,0 +1,38 @@
+header{
+    height: 300px;
+    background-color: hsl(350, 100%, 88%);
+    text-align: center;
+    color:hsl(240, 100%, 25%);
+    padding: 50px;
+    font-size: 55px;
+    background-image: url(https://t4.ftcdn.net/jpg/01/00/68/93/360_F_100689383_LyhzAVrP8ev2Sho2Rw3GA9CA1jTJF2eR.jpg);
+    background-size: cover;
+}
+
+body{
+    margin: 0px;
+}
+
+main{
+    text-align: left;
+    color:hsl(328, 61%, 44%);
+    font-size: 30px;
+}
+
+footer{
+    background-color: hsl(328, 100%, 38%);
+    text-align: center;
+    padding: 20px;
+}
+
+.social img{
+    width: 100px;
+    padding-left: 10px;
+}
+
+.social{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
